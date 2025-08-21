@@ -12,4 +12,4 @@ A hosted ArcGIS StoryMap displayed via GitHub Pages.
 ## 🗂 Repo structure
 - `index.html` – minimal page that embeds the live StoryMap (or redirects to your saved copy)
 - `.nojekyll` – prevents Jekyll from ignoring asset folders
-```markdown
+
