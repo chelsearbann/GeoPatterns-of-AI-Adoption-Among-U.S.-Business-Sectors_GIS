@@ -1,3 +1,5 @@
+[![GitHub Pages](https://img.shields.io/badge/View-GitHub%20Pages-blue)](https://chelsearbann.github.io/GeoPatterns-of-AI-Adoption-Among-U.S.-Business-Sectors_GIS/)
+
 # GeoPatterns of AI Adoption (StoryMap)
 
 A hosted ArcGIS StoryMap displayed via GitHub Pages.
@@ -10,3 +12,4 @@ A hosted ArcGIS StoryMap displayed via GitHub Pages.
 ## 🗂 Repo structure
 - `index.html` – minimal page that embeds the live StoryMap (or redirects to your saved copy)
 - `.nojekyll` – prevents Jekyll from ignoring asset folders
+```markdown
